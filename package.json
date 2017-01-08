@@ -1,0 +1,21 @@
+{
+  "name": "rtv-markdown",
+  "version": "1.0.0",
+  "description": "Real Time Markdown Viewer",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terracing/rtv-markdown.git"
+  },
+  "keywords": [
+    "markdown",
+    "realtime",
+    "nodejs"
+  ],
+  "author": "Omar Terrazas",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/terracing/rtv-markdown/issues"
+  },
+  "homepage": "https://github.com/terracing/rtv-markdown#readme"
+}
