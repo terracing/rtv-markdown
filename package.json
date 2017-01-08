@@ -17,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/terracing/rtv-markdown/issues"
   },
-  "homepage": "https://github.com/terracing/rtv-markdown#readme"
+  "homepage": "https://github.com/terracing/rtv-markdown#readme",
+  "dependencies": {
+    "ejs": "^2.5.5",
+    "express": "^4.14.0",
+    "redis": "^2.6.3",
+    "share": "^0.7.40"
+  }
 }
